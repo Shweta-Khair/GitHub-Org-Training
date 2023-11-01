@@ -1,1 +1,2 @@
 Demo for the Rebase merge 
+commit-2
